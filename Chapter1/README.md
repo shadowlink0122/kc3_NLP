@@ -2,9 +2,7 @@
 
 ## TASK
 
-[TASK](cgi-bin/botengine.py)
-
-"TASK:"の部分を埋めてチャットボットを完成させよう！
+[ボットエンジン](cgi-bin/botengine.py) "TASK:"の部分を埋めてチャットボットを完成させよう！
 
 ## 実行方法
 
